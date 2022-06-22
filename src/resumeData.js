@@ -49,7 +49,7 @@ let resumeData = {
         "CompanyName":"Split Second Software",
         "specialization":"Some specialization",
         "MonthOfLeaving":"June",
-        "YearOfLeaving":"2018",
+        "YearOfLeaving":"2022",
         "Achievements":"Nothing"
       }
     ],
