@@ -1,6 +1,7 @@
 let resumeData = {
-    "imagebaseurl":"",
+    "imagebaseurl":"https://cdna.artstation.com/p/assets/images/images/049/764/150/large/regzy-gold-anianmie.jpg?1653287146",
     "name": "Regei Cabug-os",
+    "profile": 'https://cdna.artstation.com/p/assets/images/images/049/764/150/large/regzy-gold-anianmie.jpg?1653287146',
     "role": "Frontend Developer and a Lover",
     "linkedinId":"https://ph.linkedin.com/in/regei-cabug-os-6a21471b9",
     "skypeid": "Your skypeid",
@@ -10,6 +11,11 @@ let resumeData = {
           "name":"linkedin",
           "url":"https://ph.linkedin.com/in/regei-cabug-os-6a21471b9",
           "className":"fa fa-linkedin"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://i.etsystatic.com/20053049/r/il/a3fa70/2940124552/il_fullxfull.2940124552_3059.jpg",
+          "className":"fa fa-money"
         }
       ],
     "aboutme":"I am currently working in Split Second Sofrware and a fulltime lover.",

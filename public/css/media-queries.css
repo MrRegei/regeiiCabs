@@ -89,6 +89,15 @@
    }
    #contact .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
 
+    /* savings Section
+   ------------------------------------------------------------------- */
+   #savings .section-head { margin-bottom: 30px; }
+   #savings .header-col h1:before {
+      font-size: 66px;
+      line-height: 66px;
+   }
+   #savings .section-head p.lead { font: 17px/33px opensans-light, sans-serif; }
+
 
 }
 
